@@ -4,7 +4,7 @@
   "description": "",
   "main": "/js/main.js",
   "dependencies": {
-    "three": "0.138",
+    "three": "^0.138.0",
     "threestrap": "0.4.1"
   },
   "author": "Aaron Bell"

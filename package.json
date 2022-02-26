@@ -1,0 +1,11 @@
+{
+  "name": "new-vr-project",
+  "version": "0.0.0",
+  "description": "",
+  "main": "/js/main.js",
+  "dependencies": {
+    "three": "0.138",
+    "threestrap": "0.4.1"
+  },
+  "author": "Aaron Bell"
+}
